@@ -1,2 +1,2 @@
 # hello-mars
-This is my text repository.  This sentence is text that I will be removing with a branch.
+This is my text repository.  This is additional information about myself that I am adding in a branch to test out.
